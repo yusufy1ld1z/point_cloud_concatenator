@@ -51,7 +51,7 @@ ros2 run tf2_ros static_transform_publisher 0.0 0.0 0.0 1.575 0.0 0.0 base_link 
 You can edit the transformation values and frame_id's as you desired.
 
 #### Download Bag and Play
-You can download the sample bag record by this [link](https://drive.google.com/drive/folders/1O6yQywx6miCwkyWa4PqklzdNIpwnlqr?usp=share_link).
+You can download the sample bag record by this [link](https://drive.google.com/file/d/1w_73D_xaNjjJ53TaiWFaS1yeNwVsQ1NE/view?usp=sharing).
 
 Then extract the file to any folder and play it
 ```bash
