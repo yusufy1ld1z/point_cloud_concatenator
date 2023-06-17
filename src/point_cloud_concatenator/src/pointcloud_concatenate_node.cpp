@@ -48,6 +48,7 @@ public:
         tf_listener_ = std::make_shared<tf2_ros::TransformListener>(*tf_buffer_);
 
         rclcpp::QoS qos(10);
+        qos.best_effort(); // To prevent the ROS2 QoS warning.
         auto rmw_qos_profile = qos.get_rmw_qos_profile();
 
         // Subscribe to the point cloud topics using message_filters
