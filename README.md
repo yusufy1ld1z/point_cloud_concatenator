@@ -68,17 +68,17 @@ You can simply open rviz2, and change the fixed_frame to base_link, then add the
 rviz2
 ```
 ## Images
-The output frame_tree and rviz2 shots of the static_transform_publisher
+- The output frame_tree and rviz2 shots of the static_transform_publisher
 
 <img src="./images/frames.jpeg" width=50% height=50%>
 
 
-The image of the not concatenated pointcloud streams
+- The image of the not concatenated pointcloud streams
 
 <img src="./images/points_not_concatenated.jpeg" width=50% height=50%>
 
 
-And the result poincloud stream of the point_cloud_concetanator on rviz2
+- And the result poincloud stream of the point_cloud_concetanator on rviz2
 
 <img src="./images/rviz_concatenated.png" width=50% height=50%>
 
