@@ -69,13 +69,16 @@ rviz2
 ```
 ## Images
 The output frame_tree and rviz2 shots of the static_transform_publisher
+<img src="./images/frames.jpeg" width=50% height=50%>
 ![frames](./images/frames.jpeg | width=200)
 
 The image of the not concatenated pointcloud streams
 ![points_not_concatenated](./images/points_not_concatenated.jpeg | width=200)
+<img src="./images/points_not_concatenated.jpeg" width=50% height=50%>
 
 And the result poincloud stream of the point_cloud_concetanator on rviz2
 ![rviz_concatenated](./images/rviz_concatenated.png | width=200)
+<img src="./images/rviz_concatenated.png" width=50% height=50%>
 
 
   
