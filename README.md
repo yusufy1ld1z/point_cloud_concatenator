@@ -7,7 +7,7 @@ This package is created to take more than one of LIDAR poincloud stream as ROS2 
 
 ## Installation
 
-If not installed, install ROS2 with distrubution you want.
+If not installed, install ROS2 with distrubution you want. (Foxy and Humble is tested.)
 
 Then, install this package and build as below:
 
